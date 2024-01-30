@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'OCR-A';
+    src: url('OCRAbyBT-Regular.woff2') format('woff2'),
+        url('OCRAbyBT-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
